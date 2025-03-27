@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+Tópicos que são do meu interesse
+
+- HTML
+- CSS
+- PHP
+- Javascript
+
+Frameworks
+- Laravel
+- Sequelize
+- Handlebars
 <!--
 **gff1055/gff1055** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
